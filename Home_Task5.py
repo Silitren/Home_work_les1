@@ -1,3 +1,4 @@
+#Пятое задание
 profit = float(input("Укажите значение выручки: "))
 cost = float(input("Укажите издержки фирмы: "))
 if profit > cost:
