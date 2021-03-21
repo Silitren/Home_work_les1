@@ -1,3 +1,4 @@
+#Третье задание
 number = input("Введите число: ")
 number1 = int(number)
 number2 = int(number + number)
